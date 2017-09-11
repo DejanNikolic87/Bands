@@ -1,0 +1,2 @@
+# Bands
+Angular aplikacija 
